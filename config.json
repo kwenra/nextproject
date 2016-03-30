@@ -1,14 +1,14 @@
 {
   "vars": {
-    "@gray-base": "#222",
+    "@gray-base": "#333",
     "@gray-darker": "lighten(@gray-base, 13.5%)",
     "@gray-dark": "lighten(@gray-base, 20%)",
     "@gray": "lighten(@gray-base, 33.5%)",
     "@gray-light": "lighten(@gray-base, 46.7%)",
     "@gray-lighter": "lighten(@gray-base, 93.5%)",
     "@brand-primary": "darken(#FF9494, 6.5%)",
-    "@brand-success": "#ece165",
-    "@brand-info": "#ffc39e",
+    "@brand-success": "#EFBA39",
+    "@brand-info": "#D99499",
     "@brand-warning": "#f0ad4e",
     "@brand-danger": "#a64f5d",
     "@body-bg": "#BFDEC3",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=5fd0e7edcf1f7643b3beef2209c411ff"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=ae2175f688a1dcf7c4ebaab718d4848d"
 }
